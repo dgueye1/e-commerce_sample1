@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.proimage{
+  margin-right: 10px;
+}
+.cartimage{
+}
+header{
+  margin-top: 20px;
+}
+
+header > h1 { 
+  text-align: center;
+}
+
+header .Profile_Cart {
+   text-align: right;
+   margin-right: 20px;
+   margin-top: -40px; 
+}
+.slideshow{
+  margin-top: 2000px;
+}
